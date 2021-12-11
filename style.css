@@ -1,0 +1,10 @@
+@import url("https://fonts.googleapis.com/css2?family=Hind+Siliguri:wght@700&family=Noto+Serif+Bengali:wght@500&display=swap");
+body {
+  font-family: Hind Siliguri;
+}
+.btn {
+  margin-top: 2vh;
+}
+#post_messages {
+  font-family: Noto Serif Bengali;
+}
